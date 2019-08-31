@@ -1,0 +1,1 @@
+/Users/adathathri/Documents/Study/SampleProject/build/classes/kotlin/main/config/SampleProject$Companion.class:/Users/adathathri/Documents/Study/SampleProject/build/classes/kotlin/main/config/SampleProject.class
